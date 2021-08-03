@@ -6,9 +6,9 @@ Curso introducción a Python
 ```
 c:\>python -m venv c:\path\to\myenv
 ```
-- Activar entorno virtual:
+Activar entorno virtual <small>(en nuestro caso **<env&gt;** equivale a **path\to\myenv**)</small>:
 
-| **Platform** | **Shell** | **Command to activate virtual environment** |
+| **Plataforma** | **Shell** | **Comando para activar virtual environment** |
 | --- | --- | --- |
 | Unix | bash/zsh | $ source **<venv&gt;**/bin/activate |
 | Windows | cmd.exe | C:\\>**<venv&gt;**\Scripts\activate.bat |
